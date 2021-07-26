@@ -1,0 +1,9 @@
+#contact {
+    background-image: linear-gradient(#f2d59f, lavender);
+}
+
+h3 {
+    text-decoration: underline;
+    text-shadow: red;
+    font-size: 25px;
+}
